@@ -9,28 +9,28 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-haris313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
+  <a href="https://www.instagram.com/_ha_ris_07?stkn=MTJsbGZlaGxjbnprbw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto:harismhdharis313@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1-00MgZvOE_hM8tmkZArfue2_MCAQ8sja" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/297675078?v=4&size=64" alt="GitHub" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  Hey! I'm <b>Muhammad Haris O</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
   I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
@@ -149,14 +149,14 @@
 
 <p align="center"><b>Frontend & Mobile Development</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
   </a>
 </p>
 
 <p align="center"><b>Backend, Cloud & Databases</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
   </a>
 </p>
