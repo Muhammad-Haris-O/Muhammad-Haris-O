@@ -148,6 +148,7 @@
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Haris-O&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
