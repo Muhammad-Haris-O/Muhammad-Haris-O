@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Muhammad Haris O Header" />
+  <img src="[assets/header.svg](https://avatars.githubusercontent.com/u/297675078?v=4&size=64)" width="100%" alt="Muhammad Haris O Header" />
 </p>
 
 <p align="center">
